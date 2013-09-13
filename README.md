@@ -1,2 +1,2 @@
-MD5Calc
+Java MD5 Calculator
 =======
