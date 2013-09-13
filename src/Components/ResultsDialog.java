@@ -1,3 +1,7 @@
+/**
+ *  ResultsDialog.java
+ */
+ 
 package Components;
 
 import java.awt.BorderLayout;
